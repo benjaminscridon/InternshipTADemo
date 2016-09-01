@@ -10,6 +10,7 @@ Feature: Amazon search feature
         When Search button is pressed
           Then the "1" result title should be "Software Testing (2nd Edition)"
           Then the "5" result title should be "Software Testing: An ISTQB-BCS Certified Tester Foundation Guide 3rd ed"
+          Then ...
 
 
 
